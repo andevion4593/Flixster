@@ -30,7 +30,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 " width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+The app was crashing, causing it to force close after it was already running correctly, so I deleted the Activity_main.xml trying to fix the problem after looking at the logcat and ended upnhaving to put the code back in there.
 
 ### Open-source libraries used
 
