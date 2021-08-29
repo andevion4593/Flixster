@@ -36,7 +36,7 @@ public static final String TAG ="MainActivity";
         RecyclerView rvMovies = findViewById(R.id.rvMovies);
         movies = new ArrayList<>();
         //Create the adapter
-        final MovieAdapter movieAdapter = new MovieAdapter(this, movies );
+        MovieAdapter movieAdapter = new MovieAdapter(this, movies );
         //Set the adapter on the recycler review
         rvMovies.setAdapter(movieAdapter);
         //Set a layout Manager on the recycler view
