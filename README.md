@@ -25,7 +25,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 
 
-<img src="![flixsterWalkthrough1](https://user-images.githubusercontent.com/81782504/131411842-0e5fd173-ba8e-4680-99a4-cbaea34f2628.gif)" width=250><br>
+<![flixsterWalkthrough1](https://user-images.githubusercontent.com/81782504/131412149-c446d241-daf5-4ce5-91be-0ed8b807af13.gif)
+"
+     width=250><br>
 
 ### Notes
 The app was crashing, causing it to force close after it was already running correctly, so I deleted the Activity_main.xml trying to fix the problem after looking at the logcat and ended upnhaving to put the code back in there.
