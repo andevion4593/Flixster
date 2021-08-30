@@ -8,7 +8,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
+
 
 #### REQUIRED (10pts)
 - [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 <![flixsterWalkthrough1](https://user-images.githubusercontent.com/81782504/131412149-c446d241-daf5-4ce5-91be-0ed8b807af13.gif)
-"width=250><br>
+"
 
 ### Notes
 The app was crashing, causing it to force close after it was already running correctly, so I deleted the Activity_main.xml trying to fix the problem after looking at the logcat and ended upnhaving to put the code back in there.
